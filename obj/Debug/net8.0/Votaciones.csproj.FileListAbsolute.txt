@@ -1,0 +1,14 @@
+C:\Users\user\Documents\SebastianA\Votaciones\bin\Debug\net8.0\Votaciones.exe
+C:\Users\user\Documents\SebastianA\Votaciones\bin\Debug\net8.0\Votaciones.deps.json
+C:\Users\user\Documents\SebastianA\Votaciones\bin\Debug\net8.0\Votaciones.runtimeconfig.json
+C:\Users\user\Documents\SebastianA\Votaciones\bin\Debug\net8.0\Votaciones.dll
+C:\Users\user\Documents\SebastianA\Votaciones\bin\Debug\net8.0\Votaciones.pdb
+C:\Users\user\Documents\SebastianA\Votaciones\obj\Debug\net8.0\Votaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\SebastianA\Votaciones\obj\Debug\net8.0\Votaciones.AssemblyInfoInputs.cache
+C:\Users\user\Documents\SebastianA\Votaciones\obj\Debug\net8.0\Votaciones.AssemblyInfo.cs
+C:\Users\user\Documents\SebastianA\Votaciones\obj\Debug\net8.0\Votaciones.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\SebastianA\Votaciones\obj\Debug\net8.0\Votaciones.dll
+C:\Users\user\Documents\SebastianA\Votaciones\obj\Debug\net8.0\refint\Votaciones.dll
+C:\Users\user\Documents\SebastianA\Votaciones\obj\Debug\net8.0\Votaciones.pdb
+C:\Users\user\Documents\SebastianA\Votaciones\obj\Debug\net8.0\Votaciones.genruntimeconfig.cache
+C:\Users\user\Documents\SebastianA\Votaciones\obj\Debug\net8.0\ref\Votaciones.dll
